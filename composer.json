@@ -1,5 +1,6 @@
 {
     "require": {
-        "phpmd/phpmd": "^2.4"
+		"wp-cli/wp-cli" : "~0.22",
+        "phpunit/phpunit": "^5.6"
     }
 }
